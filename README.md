@@ -37,28 +37,28 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 🛠 Technologies & Tools
 <details>
 <summary><b>📦 Click to expand tech stack</b></summary>
-<table><tr><td width="50%" valign="top"><b>💻 Programming & Querying</b>
+<table><tr><td width="50%" valign="top"><b>💻 Programming & Querying</b><br>
 <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="20" height="20"  /> Python
 <img src="https://pngimg.com/d/mysql_PNG9.png" width="20" height="20"/> MySQL
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" width="20" height="20" /> VB.NET
 
-<b>🗄 Databases</b>
+<b>🗄 Databases</b><br>
 <img src="https://pngimg.com/d/mysql_PNG9.png" width="20" height="20" /> MySQL
 <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width="20" height="20" /> Workbench
 
-<b>📊 Analytics & BI</b>
+<b>📊 Analytics & BI</b><br>
 <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/microsoft-power-bi-logo-hd.png" width="20" height="20" /> PowerBI
 </td>
-<td width="50%" valign="top"><b>⚙ Big Data & Processing</b>
+<td width="50%" valign="top"><b>⚙ Big Data & Processing</b><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="40" height="20" /> Apache Spark
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN-fpYh11nfCxMsdNotLzVAtX9DkxHqpruw&s" width="50" height="30" /> PySpark
+<img src="https://www.chaosgenius.io/blog/content/images/2025/02/pyspark-unique-values-in-column-1.png" width="50" height="30" /> PySpark
 <img src="https://dbmstools.com/images/dbms/apache-spark-sql.png" width="50" height="20" /> Spark SQL
 
-<b>☁ Cloud & Platforms</b>
+<b>☁ Cloud & Platforms</b><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="20" height="20" /> Azure
 <img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" width="20" height="20" /> Databricks
 
-<b>🧰 Productivity</b>
+<b>🧰 Productivity</b><br>
 <img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" width="20" height="20" /> Google Workspace
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1012px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" width="20" height="20" /> Microsoft Office
 </td>
