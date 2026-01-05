@@ -37,34 +37,43 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 🛠 Technologies & Tools
 <details>
 <summary><b>📦 Click to expand tech stack</b></summary>
-<table><tr><td width="50%" valign="top"><b>💻 Programming & Querying</b><br>
-<img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="20" height="20"  /> Python
-<img src="https://pngimg.com/d/mysql_PNG9.png" width="20" height="20"/> MySQL
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" width="20" height="20" /> VB.NET
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<b>🗄 Databases</b><br>
-<img src="https://pngimg.com/d/mysql_PNG9.png" width="20" height="20" /> MySQL
-<img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width="20" height="20" /> Workbench
+<b>🧑‍💻 Programming & Querying</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net" />
 
-<b>📊 Analytics & BI</b><br>
-<img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/microsoft-power-bi-logo-hd.png" width="20" height="20" /> PowerBI
+<br><br><b>🗄 Databases</b><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+
+<br><br><b>📊 Analytics</b><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
+
 </td>
-<td width="50%" valign="top"><b>⚙ Big Data & Processing</b><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="40" height="20" /> Apache Spark
-<img src="https://www.chaosgenius.io/blog/content/images/2025/02/pyspark-unique-values-in-column-1.png" width="50" height="30" /> PySpark
-<img src="https://dbmstools.com/images/dbms/apache-spark-sql.png" width="50" height="20" /> Spark SQL
 
-<b>☁ Cloud & Platforms</b><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="20" height="20" /> Azure
-<img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" width="20" height="20" /> Databricks
+<td width="50%" valign="top">
 
-<b>🧰 Productivity</b><br>
-<img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" width="20" height="20" /> Google Workspace
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1012px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" width="20" height="20" /> Microsoft Office
+<b>⚙ Big Data</b><br>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge" />
+
+<br><br><b>☁ Cloud</b><br>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks" />
+
+<br><br><b>🧰 Tools</b><br>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace" />
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice" />
+
 </td>
 </tr>
 </table>
 </details>
+
 
 ---
 
