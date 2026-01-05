@@ -46,10 +46,10 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net" />
 
-<br><br><b>🗄 Databases</b><br>
+<br><b>🗄 Databases</b><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
 
-<br><br><b>📊 Analytics</b><br>
+<br><b>📊 Analytics</b><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
 
 </td>
@@ -61,11 +61,11 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge" />
 
-<br><br><b>☁ Cloud</b><br>
+<br><b>☁ Cloud</b><br>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks" />
 
-<br><br><b>🧰 Tools</b><br>
+<br><b>🧰 Tools</b><br>
 <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace" />
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice" />
 
