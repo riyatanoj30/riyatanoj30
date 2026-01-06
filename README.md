@@ -121,7 +121,7 @@ Reach out — I value **clear problems and clean data**.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/snake-dark.svg" />
 </p>
 
 
