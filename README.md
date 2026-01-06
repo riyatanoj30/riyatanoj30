@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Riya Mhatre 👋</h1>
 
 <p align="center">
-  <b><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%7C+Pipelines+%7C+Analytics;Python+%7C+SQL+%7C+Spark+%7C+Azure;Turning+Raw+Data+into+Business+Insights" /></b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%7C+Pipelines+%7C+Analytics;Python+%7C+SQL+%7C+Spark+%7C+Azure;Turning+Raw+Data+into+Business+Insights" />
 </p>
 
 <h3 align="center">Data Engineer | MCA | B.Com</h3>
