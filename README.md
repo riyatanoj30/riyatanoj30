@@ -78,6 +78,17 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 
 
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyatanoj30&theme=dark)
+
+## 🏆 GitHub Achievements
+
+[![Achievements](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=dark)](https://github.com/riyatanoj30)
+
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -105,9 +116,7 @@ If you're working on:
 
 Reach out — I value **clear problems and clean data**.
 
-<p align="center">
 > *“Without data you're just another person with an opinion.”* — Edwards Deming
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyatanoj30&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
