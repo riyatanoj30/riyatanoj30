@@ -80,7 +80,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyatanoj30&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)
+<img src="https://camo.githubusercontent.com/e163463174cfe2b2e204a8e2e586911ee15613e9014c7330a9454a687cf79f2e/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d616c656e776179267468656d653d746f6b796f6e69676874" alt="GitHub Streak" data-canonical-src="https://streak-stats.demolab.com/?user=riyatanoj30&amp;theme=tokyonight" style="max-width: 100%;">
 <br>
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyatanoj30&theme=dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyatanoj30&theme=dark)
