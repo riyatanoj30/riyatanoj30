@@ -167,11 +167,9 @@ If you’re working on **data that needs to scale**, let’s talk.
 
 
 
-### ⚠ Recruiter Note (intentional)
+## ⚠ Recruiter Note (intentional)
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
 If you care about **data that actually works in production**, we’ll get along.
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_With-☕_Coffee-6f4e37?style=flat"/>
