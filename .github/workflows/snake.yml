@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: riyatanoj30
           outputs: |
-            output/snake-dark.svg?palette=github-dark&color_snake=#C0C0C0&color_dots=#000000,#000000,#000000,#000000,#000000
+            output/snake-custom.svg?palette=transparent&color_snake=#FF0000&color_dots=transparent,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
