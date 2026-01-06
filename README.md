@@ -81,8 +81,10 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=0" />
 </p>
+
+
 
 ## 🏆 GitHub Achievements
 
@@ -90,10 +92,24 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
 
+
+
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyatanoj30&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true" />
+</p>
+
+
+
+## 📈 Additional Stats Options
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyatanoj30&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 
