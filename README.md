@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Riya Mhatre 👋</h1>
 
-<p align="center">
+<b><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%7C+Pipelines+%7C+Analytics;Python+%7C+SQL+%7C+Spark+%7C+Azure;Turning+Raw+Data+into+Business+Insights" />
-</p>
+</p></b>
 
 <h3 align="center">Data Engineer | MCA | B.Com</h3>
 
@@ -21,7 +21,7 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 I’m a **Data Engineer in training** focused on building **reliable, scalable, analytics-ready data systems** — not dashboards without foundations.
@@ -32,7 +32,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 - 👯 Open to **data engineering, ETL optimization, and analytics engineering** projects
 - 💬 Ask me about **ETL/ELT, joins that actually scale, Spark vs SQL tradeoffs**
 
----
+
 
 ## 🛠 Technologies & Tools
 <details>
@@ -75,7 +75,56 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </details>
 
 
----
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyatanoj30&theme=github-dark&hide_border=true"/>
+</p>
+
+
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+
+
+## 🤝 Let’s Connect
+
+I’m interested in **data engineering, ETL pipelines, and analytics systems** that actually run in production.
+
+If you're working on:
+- Data pipelines
+- Analytics engineering
+- SQL / Spark performance
+
+Reach out — I value **clear problems and clean data**.
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyatanoj30&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
 
 ## 📂 Project Highlights
 <table>
@@ -100,7 +149,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </tr>
 </table>
 
----
+
 
 ## 📈 GitHub Activity
 
@@ -108,14 +157,14 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=default" />
 </p>
 
----
+
 
 ## 🎯 What I’m Actively Looking For
 - Data Engineer Intern / Fresher roles  
 - ETL & Data Pipeline projects  
 - Analytics Engineering & BI-focused work  
 
----
+
 
 ### ⚠ Recruiter Note (intentional)
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
