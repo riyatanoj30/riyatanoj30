@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Riya Mhatre 👋</h1>
 
-<b><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%7C+Pipelines+%7C+Analytics;Python+%7C+SQL+%7C+Spark+%7C+Azure;Turning+Raw+Data+into+Business+Insights" />
-</p></b>
+<p align="center">
+  <b><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%7C+Pipelines+%7C+Analytics;Python+%7C+SQL+%7C+Spark+%7C+Azure;Turning+Raw+Data+into+Business+Insights" /></b>
+</p>
 
 <h3 align="center">Data Engineer | MCA | B.Com</h3>
 
@@ -82,8 +82,10 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyatanoj30&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br>
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyatanoj30&theme=dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyatanoj30&theme=dark)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark)
 
