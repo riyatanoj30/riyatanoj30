@@ -20,7 +20,9 @@
   </a>
 </p>
 
+<br>
 ---
+<br>
 
 ## 🚀 About Me
 I’m a **Data Engineer in training** focused on building **reliable, scalable, analytics-ready data systems** — not dashboards without foundations.
