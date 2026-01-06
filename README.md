@@ -20,7 +20,7 @@
   </a>
 </p>
 
-
+---
 
 ## 🚀 About Me
 I’m a **Data Engineer in training** focused on building **reliable, scalable, analytics-ready data systems** — not dashboards without foundations.
@@ -31,7 +31,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 - 👯 Open to **data engineering, ETL optimization, and analytics engineering** projects
 - 💬 Ask me about **ETL/ELT, joins that actually scale, Spark vs SQL tradeoffs**
 
-
+---
 
 ## 🛠 Technologies & Tools
 
@@ -75,7 +75,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </table>
 </details>
 
-
+---
 
 ## 📊 GitHub Analytics
 
@@ -88,7 +88,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark" />
 </p>
 
-
+---
 
 ## 🏆 GitHub Achievements
 
@@ -96,7 +96,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
 
-
+---
 
 ## 📈 Contribution Graph
 
@@ -104,7 +104,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyatanoj30&theme=github-dark&hide_border=true"/>
 </p>
 
-
+---
 
 ## 💬 Quote of the Day
 
@@ -112,7 +112,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-
+---
 
 ## 🤝 Let’s Connect
 
@@ -130,7 +130,7 @@ Reach out — I value **clear problems and clean data**.
   <img src="https://komarev.com/ghpvc/?username=riyatanoj30&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-
+---
 
 ## 🐍 Contribution Activity
 
@@ -138,7 +138,7 @@ Reach out — I value **clear problems and clean data**.
   <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/snake-final.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
+---
 
 ## 🤝 Let’s Build Something Together
 
@@ -157,20 +157,18 @@ If you’re working on **data that needs to scale**, let’s talk.
   </a>
 </p>
 
-
+---
 
 ## 🎯 What I’m Actively Looking For
 - Data Engineer Intern / Fresher roles  
 - ETL & Data Pipeline projects  
 - Analytics Engineering & BI-focused work  
 
-
+---
 
 ### ⚠ Recruiter Note (intentional)
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
 If you care about **data that actually works in production**, we’ll get along.
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_With-☕_Coffee-6f4e37?style=flat"/>
