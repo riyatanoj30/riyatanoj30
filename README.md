@@ -153,7 +153,7 @@ If you’re working on **data that needs to scale**, let’s talk.
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" />
   </a>
   <a href="https://github.com/riyatanoj30">
-    <img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="40" height="40" />
+    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png" width="40" height="40" />
   </a>
   <a href="mailto:riyatmhatre@gmail.com">
     <img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="40" height="40" />
@@ -171,7 +171,6 @@ If you’re working on **data that needs to scale**, let’s talk.
 
 ### ⚠ Recruiter Note (intentional)
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
-
 If you care about **data that actually works in production**, we’ll get along.
 
 
