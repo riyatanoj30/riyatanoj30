@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/riya-mhatre-2aa643254/">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" />
   </a>
-  <a href="mailto:riyatmhatre@gmail.com">
+  <a href="riyatmhatre@gmail.com">
     <img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/u/Riyatanoj30/">
