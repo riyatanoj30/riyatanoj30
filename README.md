@@ -81,13 +81,11 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyatanoj30&theme=dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyatanoj30&theme=dark)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyatanoj30&theme=dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyatanoj30&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark)
 
 
 
