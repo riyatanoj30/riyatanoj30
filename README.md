@@ -159,6 +159,27 @@ Reach out — I value **clear problems and clean data**.
 
 
 
+---
+
+## 🤝 Let’s Build Something Together
+
+I’m open to collaborating on **data engineering, ETL pipelines, and analytics systems**.
+If you’re working on **data that needs to scale**, let’s talk.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-mhatre-2aa643254/">
+    <img src="https://img.shields.io/badge/Let's_Chat-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/riyatanoj30">
+    <img src="https://img.shields.io/badge/Collaborate-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:riyatmhatre@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+
+
 ## 🎯 What I’m Actively Looking For
 - Data Engineer Intern / Fresher roles  
 - ETL & Data Pipeline projects  
@@ -170,3 +191,9 @@ Reach out — I value **clear problems and clean data**.
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
 
 If you care about **data that actually works in production**, we’ll get along.
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_With-☕_Coffee-6f4e37?style=flat"/>
+</p>
