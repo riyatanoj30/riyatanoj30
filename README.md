@@ -33,7 +33,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 
 
-<br>## 🛠 Technologies & Tools
+## 🛠 Technologies & Tools
 
 <details>
 <summary><b>💻 Technologies</b></summary>
