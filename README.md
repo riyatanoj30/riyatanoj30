@@ -84,8 +84,8 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyatanoj30&theme=dark)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyatanoj30&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyatanoj30&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyatanoj30&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -95,44 +95,6 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyatanoj30&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyatanoj30&theme=dark" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyatanoj30&theme=github-dark" />
-</p>
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyatanoj30&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyatanoj30&theme=dark" />
 </p>
 
 
