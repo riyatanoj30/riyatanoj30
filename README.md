@@ -79,7 +79,10 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&margin-w=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
@@ -111,7 +114,7 @@ If you're working on:
 
 Reach out — I value **clear problems and clean data**.
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> *“Without data you're just another person with an opinion.”* — Edwards Deming
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyatanoj30&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
