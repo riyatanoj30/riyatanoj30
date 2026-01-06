@@ -68,7 +68,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 <b>Productivity & Office</b><br>
 <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace" />
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice" />
-<b>Other Tools</b><br>
+<br><b>Other Tools</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </td>
