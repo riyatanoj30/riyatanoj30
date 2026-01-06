@@ -80,12 +80,21 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 ## 📊 GitHub Analytics
 
-![GitHub followers](https://img.shields.io/github/followers/riyatanoj30?label=Followers&style=social)  
-![GitHub repo count](https://img.shields.io/github/repos/riyatanoj30?style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 
 ## 🏆 GitHub Achievements
 
-[![GitHub trophies](https://img.shields.io/badge/GitHub-Trophies-blue?style=flat-square)](https://github.com/riyatanoj30)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyatanoj30&theme=dark&hide_border=true" />
+</p>
 
 
 
@@ -128,31 +137,6 @@ Reach out — I value **clear problems and clean data**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/snake-final.svg" alt="GitHub Contribution Snake" />
 </p>
-
-
-
-## 📂 Project Highlights
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<b>📊 Data Analytics Pipeline</b><br><br>
-- <b>Tech:</b> Python, SQL, Power BI<br>
-- <b>Work:</b> Data cleaning, transformations, KPI modeling<br>
-- <b>Outcome:</b> Analytics-ready datasets<br>
-- 🔗 Demo | Code
-</td>
-
-<td width="50%" valign="top">
-<b>⚙ Spark-Based Data Processing</b><br><br>
-- <b>Tech:</b> PySpark, Spark SQL, Databricks<br>
-- <b>Work:</b> Large-scale transformations<br>
-- <b>Focus:</b> Performance & optimization<br>
-- 🔗 Demo | Code
-</td>
-
-</tr>
-</table>
 
 
 
