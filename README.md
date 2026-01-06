@@ -79,6 +79,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 ## 📊 GitHub Analytics
 
+<p align="center>
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyatanoj30&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riyatanoj30&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
@@ -88,6 +89,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyatanoj30&theme=dark)
+  </p>
 
 
 
