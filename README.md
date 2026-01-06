@@ -154,10 +154,12 @@ Reach out — I value **clear problems and clean data**.
 
 
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=tokyonight"
+  />
 </p>
 
 
