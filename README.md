@@ -80,12 +80,12 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyatanoj30&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/riyatanoj30?label=Followers&style=social)  
+![GitHub repo count](https://img.shields.io/github/repos/riyatanoj30?style=flat-square)
 
 ## 🏆 GitHub Achievements
 
-[![Achievements](https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=dark)](https://github.com/riyatanoj30)
+[![GitHub trophies](https://img.shields.io/badge/GitHub-Trophies-blue?style=flat-square)](https://github.com/riyatanoj30)
 
 
 
