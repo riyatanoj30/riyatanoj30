@@ -121,7 +121,7 @@ Reach out — I value **clear problems and clean data**.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/snake-custom.svg" />
+  <img src="https://raw.githubusercontent.com/riyatanoj30/riyatanoj30/output/snake-final.svg" alt="GitHub Contribution Snake" />
 </p>
 
 
@@ -158,8 +158,6 @@ Reach out — I value **clear problems and clean data**.
 </p>
 
 
-
----
 
 ## 🤝 Let’s Build Something Together
 
