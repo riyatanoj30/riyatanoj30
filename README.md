@@ -22,7 +22,7 @@
 </p>
 
 
-
+<br>
 ## 🚀 About Me
 I’m a **Data Engineer in training** focused on building **reliable, scalable, analytics-ready data systems** — not dashboards without foundations.
 - 🔭 Designing **end-to-end data pipelines** (ingestion → transformation → reporting)
@@ -33,7 +33,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 - 💬 Ask me about **ETL/ELT, joins that actually scale, Spark vs SQL tradeoffs**
 
 
-
+<br>
 ## 🛠 Technologies & Tools
 <details>
 <summary><b>📦 Click to expand tech stack</b></summary>
@@ -75,18 +75,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </details>
 
 
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=riyatanoj30&theme=darkhub&no-frame=true&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
-
+<br>
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -94,7 +83,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </p>
 
 
-
+<br>
 ## 💬 Quote of the Day
 
 <p align="center">
@@ -102,7 +91,7 @@ I’m a **Data Engineer in training** focused on building **reliable, scalable, 
 </p>
 
 
-
+<br>
 ## 🤝 Let’s Connect
 
 I’m interested in **data engineering, ETL pipelines, and analytics systems** that actually run in production.
@@ -120,7 +109,7 @@ Reach out — I value **clear problems and clean data**.
 </p>
 
 
-
+<br>
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -128,7 +117,7 @@ Reach out — I value **clear problems and clean data**.
 </p>
 
 
-
+<br>
 ## 📂 Project Highlights
 <table>
 <tr>
@@ -153,17 +142,7 @@ Reach out — I value **clear problems and clean data**.
 </table>
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=riyatanoj30&show_icons=true&theme=tokyonight"
-  />
-</p>
-
-
-
+<br>
 ## 🤝 Let’s Build Something Together
 
 I’m open to collaborating on **data engineering, ETL pipelines, and analytics systems**.
@@ -182,14 +161,14 @@ If you’re working on **data that needs to scale**, let’s talk.
 </p>
 
 
-
+<br>
 ## 🎯 What I’m Actively Looking For
 - Data Engineer Intern / Fresher roles  
 - ETL & Data Pipeline projects  
 - Analytics Engineering & BI-focused work  
 
 
-
+<br>
 ### ⚠ Recruiter Note (intentional)
 I focus on **clean data, correct joins, scalable pipelines, and explainable results** — not flashy dashboards without data integrity.
 
